@@ -12,18 +12,6 @@
         <td  align="center"><a href="https://github.com/">정연주</a></td>
       
     </tr>
-    <tr width="100%">
-    <td  align="center"><img src = "" width="80px"/></td>
-    <td  align="center"><img src = "" width="80px"/></td>
-    <td  align="center"><img src = "" width="80px"/></td>
-    
-    </tr>
-    <tr width="100%">
-      <td  align="center"></td>
-      <td  align="center"></td>
-      <td  align="center"></td>
-      
-   </tr>
 </table>
 
 ### 기술 스택
